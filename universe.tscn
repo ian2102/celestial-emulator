@@ -47,15 +47,15 @@ script = ExtResource("1_oc18n")
 [node name="Views" type="Node" parent="."]
 
 [node name="PlanetGaseous" parent="Views" instance=ExtResource("2_wrv64")]
-transform = Transform3D(-0.784623, 0, -0.619972, 0, 1, 0, 0.619972, 0, -0.784623, 0, 0, 0)
+transform = Transform3D(-0.0757986, 0, 0.997122, 0, 1, 0, -0.997122, 0, -0.0757986, 0, 0, 0)
 visible = false
 
 [node name="PlanetIce" parent="Views" instance=ExtResource("3_in6i3")]
-transform = Transform3D(-0.995645, 0, 0.0932173, 0, 1, 0, -0.0932173, 0, -0.995645, 0, 0, 0)
+transform = Transform3D(0.250757, 0, 0.968049, 0, 1, 0, -0.968049, 0, 0.250757, 0, 0, 0)
 visible = false
 
 [node name="PlanetLava" parent="Views" instance=ExtResource("4_gr8di")]
-transform = Transform3D(-0.995645, 0, 0.0932173, 0, 1, 0, -0.0932173, 0, -0.995645, 0, 0, 0)
+transform = Transform3D(0.250757, 0, 0.968049, 0, 1, 0, -0.968049, 0, 0.250757, 0, 0, 0)
 visible = false
 
 [node name="PlanetNoAtmosphere" parent="Views" instance=ExtResource("5_njrnd")]
@@ -63,15 +63,15 @@ transform = Transform3D(1, 0, 4.46638e-06, 0, 1, 0, -4.46638e-06, 0, 1, 0, 0, 0)
 visible = false
 
 [node name="PlanetSand" parent="Views" instance=ExtResource("6_na4sr")]
-transform = Transform3D(-0.995645, 0, 0.0932173, 0, 1, 0, -0.0932173, 0, -0.995645, 0, 0, 0)
+transform = Transform3D(0.250757, 0, 0.968049, 0, 1, 0, -0.968049, 0, 0.250757, 0, 0, 0)
 visible = false
 
 [node name="PlanetTerrestrial" parent="Views" instance=ExtResource("7_qrnp7")]
-transform = Transform3D(-0.995645, 0, 0.0932173, 0, 1, 0, -0.0932173, 0, -0.995645, 0, 0, 0)
+transform = Transform3D(0.250757, 0, 0.968049, 0, 1, 0, -0.968049, 0, 0.250757, 0, 0, 0)
 visible = false
 
 [node name="Star" parent="Views" instance=ExtResource("8_msb5u")]
-transform = Transform3D(-0.644339, 0, -0.764739, 0, 1, 0, 0.764739, 0, -0.644339, 0, 0, 0)
+transform = Transform3D(-0.898162, 0, -0.439663, 0, 1, 0, 0.439663, 0, -0.898162, 0, 0, 0)
 visible = false
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
