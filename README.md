@@ -9,6 +9,9 @@
 - **Data Integration**: Fetch real-time data from NASA's API to validate and enhance the simulation's accuracy.
 - **Customizable Settings**: Adjust simulation parameters such as gravity, time speed, and more.
 
+# Demo
+https://github.com/user-attachments/assets/9e9cb264-87e2-4f52-80d8-434be8d6dcbc
+
 ## Installation
 
 1. Clone this repository:
