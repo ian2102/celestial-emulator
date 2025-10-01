@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/9e9cb264-87e2-4f52-80d8-434be8d6dcbc
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/celestial-emulator.git
+git clone https://github.com/ian2102/celestial-emulator.git
 ```
 
 2. Open the project in Godot Engine (version 4.X or higher).
